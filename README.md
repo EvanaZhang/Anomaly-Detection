@@ -1,4 +1,4 @@
-# Anomaly-Detection
+# Loan-Anomaly-Detection
 Machine Learning Application with R (XGBoost, Random Forest, MLP)
 
 Executive Summary (All figures and visualizations are shown in the PDF file)
