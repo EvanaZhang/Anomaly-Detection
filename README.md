@@ -55,7 +55,11 @@ Conclusion
 • By comparing the ROC_AUC and the accuracy from the Multilayer Perception, XGBoost and Random Forest models. XGBoost model will be the best model to fit the data. That’s why using the XGBoost model to do the kaggle prediction with the highest values on both accuracy and roc_auc.
 
 
+Recommendations
 
+• The company should consider focus on the number of payments on the loan with a 60 month more.
+
+• The interest rate is also a focus point need to pay attention to.
 
 
 
